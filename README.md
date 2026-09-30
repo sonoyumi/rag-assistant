@@ -11,6 +11,11 @@
 
 **🇬🇧 [English](#en)** · **🇮🇹 [Italiano](#it)** · **🇺🇦 [Українська](#uk)** · **🇷🇺 [Русский](#ru)**
 
+<p align="center">
+  <img src="docs/assets/telegram-chat.png" alt="Telegram: answers with sources in Italian, English and Russian" width="340">
+  <img src="docs/assets/cli.png" alt="CLI: index, search, ask" width="480">
+</p>
+
 ---
 
 <a name="en"></a>
