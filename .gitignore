@@ -1,23 +1,22 @@
-# Секреты
+# Secrets
 .env
 .env.*
 !.env.example
 
-# Данные и логи
+# The index and company documents are private: never commit them
 data/
 *.db
-*.sqlite3
-*.log
+*.db-wal
+*.db-shm
+knowledge/
 
 # Python
 __pycache__/
 *.py[cod]
 .venv/
-venv/
 *.egg-info/
 .pytest_cache/
 .ruff_cache/
-.mypy_cache/
 dist/
 build/
 

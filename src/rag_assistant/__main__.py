@@ -1,13 +1,8 @@
-"""Точка входа: `python -m rag_assistant` или команда `rag-assistant`."""
+"""Entry points: `python -m rag_assistant` or the `rag-assistant` command."""
 
+import sys
 
-def greet(name: str) -> str:
-    return f"Привет, {name}!"
-
-
-def main() -> None:
-    print(greet("мир"))
-
+from rag_assistant.cli import main
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())
