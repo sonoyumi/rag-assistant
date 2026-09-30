@@ -44,6 +44,7 @@ STOPWORDS = frozenset(
     """
     the and for are you your can how what when where which with from that this have has does
     che per con una uno del della delle dei degli nel nella come quando dove cosa sono posso puo può
+    sul sulla sullo sui sugli alla allo alle agli dal dalla dallo dai dagli nei negli nelle tra fra gli
     как что где когда это для или при про без мне можно есть ваш ваша наш the
     які який яка коли що для або мені можна
     """.split()

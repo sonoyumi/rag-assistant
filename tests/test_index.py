@@ -12,6 +12,7 @@ def test_query_is_safe_and_uses_prefixes():
     assert build_query("Сколько стоит парковка?") == '"сколь"* OR "стоит" OR "парков"*'
     assert build_query("a é ?? 2026") == '"2026"'
     assert build_query("как что где") == ""  # only stop words
+    assert build_query("sul balcone dalla camera") == '"balco"* OR "came"*'  # Italian prepositions are dropped
     assert build_query("Password Wi-Fi e check-in?") == '"wi fi" OR "check in" OR "passwo"*'
 
 
@@ -25,6 +26,7 @@ def test_finds_the_right_passage_in_every_language(kb):
         "Quanto costa la tassa di soggiorno?": "Arrivo e partenza › Tassa di soggiorno",
         "Сколько стоит парковка?": "Частые вопросы (FAQ) › Парковка",
         "Can I smoke on the balcony?": "house rules",
+        "Posso fumare sul balcone?": "house rules",  # "sul" must not pull in "…sul cartoncino" from Wi-Fi
         "password del wifi": "Servizi dell'hotel › Wi-Fi",
         "noleggio bici elettrica": "prezzi",
     }
