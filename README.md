@@ -105,6 +105,7 @@ src/rag_assistant/
 
 [![Telegram](https://img.shields.io/badge/Telegram-write%20me-2CA5E0?logo=telegram&logoColor=white)](https://t.me/sonoyumiii)
 [![Email](https://img.shields.io/badge/Email-contact-EA4335?logo=gmail&logoColor=white)](mailto:sonoyumiii@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladyslav-shokun/)
 
 > 💼 Your team answers the same questions every day? Get in touch, I'll turn your documents into an assistant.
 
@@ -187,6 +188,7 @@ src/rag_assistant/
 
 [![Telegram](https://img.shields.io/badge/Telegram-write%20me-2CA5E0?logo=telegram&logoColor=white)](https://t.me/sonoyumiii)
 [![Email](https://img.shields.io/badge/Email-contact-EA4335?logo=gmail&logoColor=white)](mailto:sonoyumiii@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladyslav-shokun/)
 
 > 💼 Il vostro team risponde ogni giorno alle stesse domande? Scrivetemi, trasformo i vostri documenti in un assistente.
 
@@ -269,6 +271,7 @@ src/rag_assistant/
 
 [![Telegram](https://img.shields.io/badge/Telegram-write%20me-2CA5E0?logo=telegram&logoColor=white)](https://t.me/sonoyumiii)
 [![Email](https://img.shields.io/badge/Email-contact-EA4335?logo=gmail&logoColor=white)](mailto:sonoyumiii@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladyslav-shokun/)
 
 > 💼 Ваша команда щодня відповідає на ті самі запитання? Напишіть мені, перетворю ваші документи на асистента.
 
@@ -350,6 +353,7 @@ src/rag_assistant/
 
 [![Telegram](https://img.shields.io/badge/Telegram-write%20me-2CA5E0?logo=telegram&logoColor=white)](https://t.me/sonoyumiii)
 [![Email](https://img.shields.io/badge/Email-contact-EA4335?logo=gmail&logoColor=white)](mailto:sonoyumiii@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladyslav-shokun/)
 
 > 💼 Ваша команда каждый день отвечает на одни и те же вопросы? Напишите мне, превращу ваши документы в ассистента.
 
